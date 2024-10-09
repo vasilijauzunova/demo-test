@@ -6,6 +6,6 @@
   ],
   "includes": [
     "/content/demo-test",
-    "/content/dam/demo-test/"
+    "/content/dam/demo-test"
   ]
 }
