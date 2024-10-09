@@ -3,5 +3,9 @@
     "/content/demo-test/:/",
     "/content/demo-test/configuration:/.helix/config.json",
     "/content/demo-test/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/demo-test",
+    "/content/dam/demo-test/"
   ]
 }
